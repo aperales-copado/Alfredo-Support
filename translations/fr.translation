@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Dreamhouse Classic --></label>
+        <name>Dreamhouse_Classic</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- Dreamhouse Lightning --></label>
+        <name>Dreamhouse_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- PG_Sales --></label>
+        <name>PG_Sales</name>
+    </customApplications>
+    <customApplications>
+        <label><!-- PG_Sales Lightning --></label>
+        <name>PG_Sales_Lightning</name>
+    </customApplications>
+    <customLabels>
+        <label><!-- AP potential --></label>
+        <name>AP_potential</name>
+    </customLabels>
+    <customLabels>
+        <label>Necesita mejorar</label>
+        <name>Benzema</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Blue --></label>
+        <name>Blue</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Green --></label>
+        <name>Green</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New button --></label>
+        <name>New_button</name>
+    </customLabels>
+    <customLabels>
+        <label>Heroe</label>
+        <name>Platini</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Saved Label --></label>
+        <name>Saved_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Saved Label 2 --></label>
+        <name>Saved_Label_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Saved Label 3 --></label>
+        <name>Saved_Label_3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Seguro avion --></label>
+        <name>Seguro_avion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Seguro coche --></label>
+        <name>Seguro_coche</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Seguro moto --></label>
+        <name>Seguro_moto</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Telus --></label>
+        <name>Telus</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Test to delete --></label>
+        <name>Test_to_delete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Troubleshooting  10506 --></label>
+        <name>Troubleshooting_10506</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Brown --></label>
+        <name>White</name>
+    </customLabels>
+    <customLabels>
+        <label>Genio</label>
+        <name>Zidane</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- Data Import --></label>
+        <name>Data_Import</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Leads --></label>
+        <name>Leads</name>
+    </customTabs>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Task --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+</Translations>

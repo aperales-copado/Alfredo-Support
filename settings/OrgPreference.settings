@@ -6,7 +6,7 @@
     </preferences>
     <preferences>
         <settingName>SocialProfilesEnable</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>UpgradeInsecureRequestsPref</settingName>
@@ -26,7 +26,7 @@
     </preferences>
     <preferences>
         <settingName>AnalyticsSharingEnable</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>DisableParallelApexTesting</settingName>
@@ -59,6 +59,10 @@
     <preferences>
         <settingName>ContentSniffingProtection</settingName>
         <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ScratchOrgManagementPref</settingName>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>RemoveThemeBrandBanner</settingName>
@@ -110,15 +114,15 @@
     </preferences>
     <preferences>
         <settingName>S1EncryptedStoragePref2</settingName>
-        <settingValue>true</settingValue>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>ChatterEnabled</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>Translation</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>LocalNames</settingName>
