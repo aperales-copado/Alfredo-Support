@@ -28,10 +28,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Mozilla__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Encriptado__c</field>
             </layoutItems>
             <layoutItems>

@@ -45,14 +45,6 @@
         <name>Kindergarden__c</name>
     </fields>
     <fields>
-        <label><!-- Monday afternoon --></label>
-        <name>Monday_afternoon__c</name>
-    </fields>
-    <fields>
-        <label><!-- Mozilla --></label>
-        <name>Mozilla__c</name>
-    </fields>
-    <fields>
         <label><!-- Pablo --></label>
         <lookupFilter>
             <errorMessage><!-- Esto no funciona --></errorMessage>
