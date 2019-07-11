@@ -8,6 +8,13 @@
         <value>Guarderia</value>
     </labels>
     <labels>
+        <fullName>Telus</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Telus</shortDescription>
+        <value>Telus</value>
+    </labels>
+    <labels>
         <fullName>test</fullName>
         <language>en_US</language>
         <protected>true</protected>
