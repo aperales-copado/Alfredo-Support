@@ -2916,11 +2916,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>copado__Compliance_Finding__c.copado__Severity__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>copado__Compliance_Rule_Criteria__c.copado__Criteria__c</field>
         <readable>false</readable>
     </fieldPermissions>
