@@ -2916,11 +2916,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>copado__Selenium_Group_Org_Credential__c.copado__External_Id__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>copado__Selenium_Group_Test_Suite__c.copado__External_Id__c</field>
         <readable>false</readable>
     </fieldPermissions>
