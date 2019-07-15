@@ -2906,11 +2906,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>User.copado__API_URL__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>User.copado__Hide_Copado_feedback__c</field>
         <readable>false</readable>
     </fieldPermissions>
