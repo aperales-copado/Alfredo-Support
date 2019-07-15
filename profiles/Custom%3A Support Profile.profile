@@ -4361,9 +4361,6 @@
         <layout>C__c-C Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Callout_Log__c-Callout Log Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Campaign-Campaign Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
