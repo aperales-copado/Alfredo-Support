@@ -2916,26 +2916,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>copado__Copado_Smart_Help__mdt.copado__Base_Page__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Copado_Smart_Help__mdt.copado__Help_Text__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Copado_Smart_Help__mdt.copado__Triggering_Action__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Copado_Smart_Help__mdt.copado__Triggering_Value__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>copado__Deployment_Flow_Step__c.copado__Automatically_Merge_and_Deploy__c</field>
         <readable>false</readable>
     </fieldPermissions>
