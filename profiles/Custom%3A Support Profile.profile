@@ -6231,10 +6231,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SyncUserStories</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>dupe_eliminator__MergeRecord</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
