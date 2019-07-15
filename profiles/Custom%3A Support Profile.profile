@@ -6685,10 +6685,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>Data_Import</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>Leads</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
