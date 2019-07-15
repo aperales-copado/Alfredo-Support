@@ -113,10 +113,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>ExecuteUserStoryUpsert</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>IIntegration</apexClass>
         <enabled>true</enabled>
     </classAccesses>
