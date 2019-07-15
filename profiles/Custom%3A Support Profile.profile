@@ -113,10 +113,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>CallIterable</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>CopadoCCMutilities</apexClass>
         <enabled>true</enabled>
     </classAccesses>
