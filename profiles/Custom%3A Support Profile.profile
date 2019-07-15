@@ -113,10 +113,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>IntegrationFactory</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>JiraIntegration</apexClass>
         <enabled>true</enabled>
     </classAccesses>
