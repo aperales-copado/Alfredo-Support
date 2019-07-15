@@ -4515,9 +4515,6 @@
         <layout>QuickText-Quick Text Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>SOSSession-SOS Session Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>SOSSessionActivity-SOS Session Activity Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
