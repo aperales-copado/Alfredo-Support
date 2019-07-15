@@ -2916,21 +2916,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>copado__Epic__c.copado__Epic_Details__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Epic__c.copado__Epic_Title__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Epic__c.copado__Status__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>copado__External_CI_Job_Result__c.copado__Description__c</field>
         <readable>false</readable>
     </fieldPermissions>
