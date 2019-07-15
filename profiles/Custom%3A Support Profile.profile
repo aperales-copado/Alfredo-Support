@@ -2905,11 +2905,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>User.copado__Work_Manager_Panels__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>User.echosign_dev1__EchoSign_Allow_Delegated_Sending__c</field>
         <readable>true</readable>
