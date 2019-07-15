@@ -113,10 +113,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>UserStoryHandler</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>VSTSIntegration</apexClass>
         <enabled>true</enabled>
     </classAccesses>
