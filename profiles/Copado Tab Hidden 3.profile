@@ -6605,10 +6605,6 @@
         <visibility>DefaultOff</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>Leads</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>Pablo__c</tab>
         <visibility>DefaultOff</visibility>
     </tabVisibilities>
