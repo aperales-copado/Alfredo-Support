@@ -3079,6 +3079,20 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Environment_Name__c</fullName>
+        <description>Name of the Environment</description>
+        <externalId>false</externalId>
+        <formula>copado__Environment__r.Name</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>Shows the environment the user story was lastly deployed</inlineHelpText>
+        <label>Environment Name</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>External_Id__c</fullName>
         <externalId>true</externalId>
         <label>External Id</label>
