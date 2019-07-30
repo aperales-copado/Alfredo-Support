@@ -1,11 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>Diventium</fullName>
+        <fullName>AP_potential</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>Diventium</shortDescription>
-        <value>Guarderia</value>
+        <shortDescription>AP potential</shortDescription>
+        <value>Potential conflict</value>
+    </labels>
+    <labels>
+        <fullName>Alfredo_Perales</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Alfredo Perales</shortDescription>
+        <value>Nombre</value>
+    </labels>
+    <labels>
+        <fullName>Benzema</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Benzema</shortDescription>
+        <value>El gato</value>
+    </labels>
+    <labels>
+        <fullName>Blue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Blue</shortDescription>
+        <value>True Colour</value>
+    </labels>
+    <labels>
+        <fullName>ColourBlue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ColourBlue</shortDescription>
+        <value>Blue</value>
+    </labels>
+    <labels>
+        <fullName>ColourRed</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ColourRed</shortDescription>
+        <value>Red</value>
+    </labels>
+    <labels>
+        <fullName>ColourWhite</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ColourWhite</shortDescription>
+        <value>White</value>
+    </labels>
+    <labels>
+        <fullName>Green</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Green</shortDescription>
+        <value>Colour</value>
+    </labels>
+    <labels>
+        <fullName>New_button</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New button</shortDescription>
+        <value>New button for test case in Aurabundle component</value>
+    </labels>
+    <labels>
+        <fullName>Pablo_Rodrigo</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Pablo Rodrigo</shortDescription>
+        <value>Gemelos</value>
+    </labels>
+    <labels>
+        <fullName>Platini</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Platini</shortDescription>
+        <value>Viejo</value>
+    </labels>
+    <labels>
+        <fullName>Saved_Label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Saved Label</shortDescription>
+        <value>Saved Label</value>
+    </labels>
+    <labels>
+        <fullName>Saved_Label_2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Saved Label 2</shortDescription>
+        <value>Saved Label 2</value>
+    </labels>
+    <labels>
+        <fullName>Saved_Label_3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Saved Label 3</shortDescription>
+        <value>Saved Label 3</value>
+    </labels>
+    <labels>
+        <fullName>Seguro_avion</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Seguro avion</shortDescription>
+        <value>What??</value>
+    </labels>
+    <labels>
+        <fullName>Seguro_coche</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Seguro coche</shortDescription>
+        <value>Mutua</value>
+    </labels>
+    <labels>
+        <fullName>Seguro_moto</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Seguro moto</shortDescription>
+        <value>Mutua</value>
+    </labels>
+    <labels>
+        <fullName>Telus</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Telus</shortDescription>
+        <value>Telus</value>
+    </labels>
+    <labels>
+        <fullName>Test_to_delete</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test to delete</shortDescription>
+        <value>OK</value>
+    </labels>
+    <labels>
+        <fullName>Troubleshooting_10506</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Troubleshooting  10506</shortDescription>
+        <value>Troubleshooting  10506 segundo caso</value>
+    </labels>
+    <labels>
+        <fullName>White</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Brown</shortDescription>
+        <value>Real colour</value>
+    </labels>
+    <labels>
+        <fullName>Zidane</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Zidane</shortDescription>
+        <value>Centrocampista</value>
     </labels>
     <labels>
         <fullName>test</fullName>

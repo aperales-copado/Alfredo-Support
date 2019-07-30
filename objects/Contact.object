@@ -113,7 +113,7 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>CurrencyIsoCode</fullName>
+        <fullName>CleanStatus</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -147,6 +147,11 @@
     <fields>
         <fullName>HomePhone</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>IndividualId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Jigsaw</fullName>
@@ -302,4 +307,28 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
+    <validationRules>
+        <fullName>Alfredo_Phone</fullName>
+        <active>true</active>
+        <errorConditionFormula>LEFT(Phone, 1) &lt;&gt; &quot;+&quot;</errorConditionFormula>
+        <errorMessage>Phone number must begin with + (country code).</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>copado_phone</fullName>
+        <active>true</active>
+        <errorConditionFormula>LEFT(Phone, 1) &lt;&gt; &quot;+&quot;</errorConditionFormula>
+        <errorMessage>Phone number must begin with + (country code).</errorMessage>
+    </validationRules>
+    <webLinks>
+        <fullName>echosign_dev1__Send_to_EchoSign</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <encodingKey>UTF-8</encodingKey>
+        <height>600</height>
+        <linkType>url</linkType>
+        <masterLabel>Send for Signature</masterLabel>
+        <openType>sidebar</openType>
+        <protected>false</protected>
+        <url>/apex/echosign_dev1__AgreementTemplateProcess?masterId={!Contact.Id}</url>
+    </webLinks>
 </CustomObject>

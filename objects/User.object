@@ -65,45 +65,26 @@
         <type>Hierarchy</type>
     </fields>
     <fields>
-        <fullName>copado__API_URL__c</fullName>
-        <deprecated>false</deprecated>
-        <externalId>false</externalId>
-        <formula>$Api.Partner_Server_URL_290</formula>
-        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-        <label>API_URL</label>
-        <required>false</required>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>copado__Hide_Copado_feedback__c</fullName>
+        <fullName>echosign_dev1__EchoSign_Allow_Delegated_Sending__c</fullName>
         <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
+        <description>Check this box so that others in this Salesforce organization can send Adobe Sign agreements on behalf of this user.</description>
         <externalId>false</externalId>
-        <inlineHelpText>The visibility of the message asking users to rate &amp; feedback Copado on the AppExchange is controlled here.</inlineHelpText>
-        <label>Hide Copado feedback</label>
+        <inlineHelpText>Check this box so that others in this Salesforce organization can send Adobe Sign agreements on behalf of this user.</inlineHelpText>
+        <label>Adobe Sign Allow Sending As Other Users</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>copado__Show_Copado_Tips__c</fullName>
-        <defaultValue>true</defaultValue>
+        <fullName>echosign_dev1__EchoSign_Email_Verified__c</fullName>
+        <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
+        <description>This checkbox indicates that the user&apos;s email address has been validated in Adobe Sign API.</description>
         <externalId>false</externalId>
-        <label>Show Copado Tips</label>
+        <inlineHelpText>This checkbox indicates that the user&apos;s email address has been validated in Adobe Sign API.</inlineHelpText>
+        <label>Adobe Sign Email Verified</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
-    </fields>
-    <fields>
-        <fullName>copado__Work_Manager_Panels__c</fullName>
-        <deprecated>false</deprecated>
-        <description>JSON containing current user panels on the Backlog</description>
-        <externalId>false</externalId>
-        <label>Work Manager Panels</label>
-        <length>131072</length>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>LongTextArea</type>
-        <visibleLines>2</visibleLines>
     </fields>
     <listViews>
         <fullName>ActiveUsers</fullName>
@@ -144,4 +125,24 @@
         <searchResultsAdditionalFields>CORE.USERS.EMAIL</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Read</sharingModel>
+    <webLinks>
+        <fullName>echosign_dev1__Sync_EchoSign_User</fullName>
+        <availability>online</availability>
+        <displayType>link</displayType>
+        <encodingKey>UTF-8</encodingKey>
+        <hasMenubar>false</hasMenubar>
+        <hasScrollbars>true</hasScrollbars>
+        <hasToolbar>false</hasToolbar>
+        <height>300</height>
+        <isResizable>true</isResizable>
+        <linkType>url</linkType>
+        <masterLabel>Sync Adobe Sign User</masterLabel>
+        <openType>newWindow</openType>
+        <position>topLeft</position>
+        <protected>false</protected>
+        <showsLocation>false</showsLocation>
+        <showsStatus>false</showsStatus>
+        <url>/apex/echosign_dev1__UserGroupMapping?userId={!User.Id}</url>
+        <width>800</width>
+    </webLinks>
 </CustomObject>
