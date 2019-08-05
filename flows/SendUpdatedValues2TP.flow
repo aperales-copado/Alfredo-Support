@@ -56,22 +56,6 @@
             </value>
         </inputParameters>
     </actionCalls>
-    <assignments>
-        <name>myVariable_waitStartTimeAssignment</name>
-        <label>myVariable_waitStartTimeAssignment</label>
-        <locationX>0</locationX>
-        <locationY>0</locationY>
-        <assignmentItems>
-            <assignToReference>myVariable_waitStartTimeVariable</assignToReference>
-            <operator>Assign</operator>
-            <value>
-                <elementReference>$Flow.CurrentDateTime</elementReference>
-            </value>
-        </assignmentItems>
-        <connector>
-            <targetReference>myDecision</targetReference>
-        </connector>
-    </assignments>
     <decisions>
         <processMetadataValues>
             <name>index</name>
@@ -97,7 +81,7 @@
             <connector>
                 <targetReference>myRule_1_A1</targetReference>
             </connector>
-            <label>CheckStatus</label>
+            <label>CheckStatusAndEnvironment</label>
         </rules>
     </decisions>
     <description>This flow will be executed, whenever a user story status changes.</description>
@@ -105,14 +89,16 @@
         <processMetadataValues>
             <name>originalFormula</name>
             <value>
-                <stringValue>ISCHANGED([copado__User_Story__c].copado__Status__c )</stringValue>
+                <stringValue>ISCHANGED([copado__User_Story__c].copado__Status__c ) ||
+ISCHANGED([copado__User_Story__c].copado__Environment__c)</stringValue>
             </value>
         </processMetadataValues>
         <name>formula_myRule_1</name>
         <dataType>Boolean</dataType>
-        <expression>ISCHANGED({!myVariable_current.copado__Status__c} )</expression>
+        <expression>ISCHANGED({!myVariable_current.copado__Status__c} ) ||
+ISCHANGED({!myVariable_current.copado__Environment__c})</expression>
     </formulas>
-    <interviewLabel>SendUpdatedValues2TP-6_InterviewLabel</interviewLabel>
+    <interviewLabel>SendUpdatedValues2TP-2_InterviewLabel</interviewLabel>
     <label>SendUpdatedValues2TP</label>
     <processMetadataValues>
         <name>ObjectType</name>
@@ -139,7 +125,7 @@
         </value>
     </processMetadataValues>
     <processType>Workflow</processType>
-    <startElementReference>myVariable_waitStartTimeAssignment</startElementReference>
+    <startElementReference>myDecision</startElementReference>
     <status>Active</status>
     <variables>
         <name>myVariable_current</name>
@@ -156,15 +142,5 @@
         <isInput>true</isInput>
         <isOutput>false</isOutput>
         <objectType>copado__User_Story__c</objectType>
-    </variables>
-    <variables>
-        <name>myVariable_waitStartTimeVariable</name>
-        <dataType>DateTime</dataType>
-        <isCollection>false</isCollection>
-        <isInput>false</isInput>
-        <isOutput>false</isOutput>
-        <value>
-            <elementReference>$Flow.CurrentDateTime</elementReference>
-        </value>
     </variables>
 </Flow>
