@@ -5061,6 +5061,10 @@
         <name>test</name>
     </customLabels>
     <customTabs>
+        <label><!-- Alfredo LWC --></label>
+        <name>Alfredo_LWC</name>
+    </customTabs>
+    <customTabs>
         <label><!-- Data Import --></label>
         <name>Data_Import</name>
     </customTabs>

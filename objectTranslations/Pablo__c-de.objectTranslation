@@ -45,19 +45,19 @@
         <name>Alfredo_picklist__c</name>
         <picklistValues>
             <masterLabel>Head</masterLabel>
-            <translation><!-- Head --></translation>
+            <translation>cabeza</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Knees</masterLabel>
-            <translation><!-- Knees --></translation>
+            <translation>rodilla</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Shoulder</masterLabel>
-            <translation><!-- Shoulder --></translation>
+            <translation>hombro</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Toes</masterLabel>
-            <translation><!-- Toes --></translation>
+            <translation>tobillos</translation>
         </picklistValues>
     </fields>
     <fields>
