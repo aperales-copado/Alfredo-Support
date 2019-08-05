@@ -9,9 +9,7 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>da</members>
-        <members>de</members>
-        <members>en_US</members>
+        <members>fr</members>
         <name>Translations</name>
     </types>
     <version>45.0</version>
