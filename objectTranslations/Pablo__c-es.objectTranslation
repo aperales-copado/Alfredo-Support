@@ -13,19 +13,19 @@
         <name>Alfredo_picklist__c</name>
         <picklistValues>
             <masterLabel>Head</masterLabel>
-            <translation>qwerty</translation>
+            <translation>yyyyyy</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Knees</masterLabel>
-            <translation>qwertu</translation>
+            <translation>iiiiiii</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Shoulder</masterLabel>
-            <translation>qwerti</translation>
+            <translation>pppppp</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Toes</masterLabel>
-            <translation>qwerto</translation>
+            <translation>rrrrrrrr</translation>
         </picklistValues>
     </fields>
     <fields>
@@ -85,27 +85,27 @@
         <name>PB_multipicklist__c</name>
         <picklistValues>
             <masterLabel>Apple</masterLabel>
-            <translation></translation>
+            <translation>manzanito</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Huawei</masterLabel>
-            <translation></translation>
+            <translation>chino</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Motorola</masterLabel>
-            <translation></translation>
+            <translation>japo</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Nokia</masterLabel>
-            <translation></translation>
+            <translation>mas japo</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Pocophone</masterLabel>
-            <translation></translation>
+            <translation>chino</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Sony</masterLabel>
-            <translation></translation>
+            <translation>japones</translation>
         </picklistValues>
     </fields>
     <fields>
