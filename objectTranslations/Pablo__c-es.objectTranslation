@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Pablo</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Pablos</value>
+    </caseValues>
+    <fields>
+        <label><!-- Alfredo picklist --></label>
+        <name>Alfredo_picklist__c</name>
+        <picklistValues>
+            <masterLabel>Head</masterLabel>
+            <translation>yyyyyy</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Knees</masterLabel>
+            <translation>iiiiiii</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shoulder</masterLabel>
+            <translation>pppppp</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Toes</masterLabel>
+            <translation>rrrrrrrr</translation>
+        </picklistValues>
+    </fields>
+    <gender>Masculine</gender>
+</CustomObjectTranslation>
