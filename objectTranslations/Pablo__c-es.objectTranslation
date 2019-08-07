@@ -13,19 +13,19 @@
         <name>Alfredo_picklist__c</name>
         <picklistValues>
             <masterLabel>Head</masterLabel>
-            <translation>yyyyyy</translation>
+            <translation>aaaaaaaaaaa</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Knees</masterLabel>
-            <translation>iiiiiii</translation>
+            <translation>aaaaaaaaaaaa</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Shoulder</masterLabel>
-            <translation>pppppp</translation>
+            <translation>aa</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Toes</masterLabel>
-            <translation>rrrrrrrr</translation>
+            <translation>aaaa</translation>
         </picklistValues>
     </fields>
     <fields>
