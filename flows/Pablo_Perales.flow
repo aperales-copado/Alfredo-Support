@@ -33,7 +33,7 @@
         <dataType>Boolean</dataType>
         <expression>true</expression>
     </formulas>
-    <interviewLabel>Pablo_Perales-5_InterviewLabel</interviewLabel>
+    <interviewLabel>Pablo_Perales-9_InterviewLabel</interviewLabel>
     <label>Pablo Perales</label>
     <processMetadataValues>
         <name>ObjectType</name>
@@ -141,7 +141,7 @@
         <object>Account</object>
     </recordUpdates>
     <startElementReference>myDecision</startElementReference>
-    <status>Active</status>
+    <status>Draft</status>
     <variables>
         <name>myVariable_current</name>
         <dataType>SObject</dataType>
