@@ -1,49 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Nami__ChangeEvent.ChangeEventHeader</members>
-        <members>Nami__ChangeEvent.Name</members>
-        <members>Nami__ChangeEvent.OwnerId</members>
-        <members>Nami__ChangeEvent.ReplayId</members>
-        <members>Ussop__ChangeEvent.ChangeEventHeader</members>
-        <members>Ussop__ChangeEvent.Name</members>
-        <members>Ussop__ChangeEvent.OwnerId</members>
-        <members>Ussop__ChangeEvent.ReplayId</members>
-        <members>Zoro__ChangeEvent.ChangeEventHeader</members>
-        <members>Zoro__ChangeEvent.Name</members>
-        <members>Zoro__ChangeEvent.OwnerId</members>
-        <members>Zoro__ChangeEvent.ReplayId</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Nami__c</members>
-        <members>Ussop__c</members>
-        <members>Zoro__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Nami__c-es</members>
-        <members>Ussop__c-es</members>
-        <members>Zoro__c-es</members>
-        <name>CustomObjectTranslation</name>
-    </types>
-    <types>
-        <members>Nami__c-Nami Layout</members>
-        <members>Ussop__c-Ussop Layout</members>
-        <members>Zoro__c-Zoro Layout</members>
+        <members>Account-Alfredo Account Layout</members>
         <name>Layout</name>
-    </types>
-    <types>
-        <members>Nami__c</members>
-        <members>Ussop__c</members>
-        <members>Zoro__c</members>
-        <name>SharingRules</name>
-    </types>
-    <types>
-        <members>Nami__c</members>
-        <members>Ussop__c</members>
-        <members>Zoro__c</members>
-        <name>TopicsForObjects</name>
     </types>
     <version>46.0</version>
 </Package>
