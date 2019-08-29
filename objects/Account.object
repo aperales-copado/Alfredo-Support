@@ -124,7 +124,7 @@
     </fields>
     <fields>
         <fullName>CleanStatus</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
+        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>true</trackHistory>
     </fields>
     <fields>
