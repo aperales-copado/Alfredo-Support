@@ -182,7 +182,6 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <gender>Masculine</gender>
     <label>George Pig</label>
     <nameField>
         <label>George Pig Name</label>
