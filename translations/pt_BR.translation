@@ -29,6 +29,10 @@
         <name>ColourWhite</name>
     </customLabels>
     <customLabels>
+        <label><!-- Diventium --></label>
+        <name>Diventium</name>
+    </customLabels>
+    <customLabels>
         <label><!-- Green --></label>
         <name>Green</name>
     </customLabels>

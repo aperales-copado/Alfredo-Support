@@ -4,7 +4,6 @@
     <hasSidebar>false</hasSidebar>
     <icon>echosign_dev1__ButtonsLogosImages/echosign_dev1__Agreement_Logo.png</icon>
     <label>Manage Agreements</label>
-    <mobileReady>false</mobileReady>
     <motif>Custom108: TV Widescreen</motif>
     <url>/apex/echosign_dev1__ManageAgreements</url>
     <urlEncodingKey>UTF-8</urlEncodingKey>

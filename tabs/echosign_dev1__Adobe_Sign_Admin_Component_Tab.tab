@@ -3,6 +3,5 @@
     <auraComponent>echosign_dev1__DocumentCloudAdmin</auraComponent>
     <icon>echosign_dev1__ButtonsLogosImages/echosign_dev1__Agreement_Logo.png</icon>
     <label>Adobe Sign Admin</label>
-    <mobileReady>false</mobileReady>
     <motif>Custom283: TV Widescreen</motif>
 </CustomTab>
