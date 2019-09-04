@@ -176,7 +176,6 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <gender>Feminine</gender>
     <label>Peppa Pig</label>
     <nameField>
         <label>Peppa Pig Name</label>
