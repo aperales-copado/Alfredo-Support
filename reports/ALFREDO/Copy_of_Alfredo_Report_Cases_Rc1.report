@@ -22,7 +22,7 @@
         <field>CLOSED</field>
     </columns>
     <format>Tabular</format>
-    <name>Copy of Alfredo Report Cases</name>
+    <name>Alfredo</name>
     <params>
         <name>units</name>
         <value>h</value>
