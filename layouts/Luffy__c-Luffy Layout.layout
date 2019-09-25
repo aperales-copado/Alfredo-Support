@@ -12,11 +12,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>A__c</field>
+                <field>One_Piece__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>B__c</field>
+                <field>Birthday__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
