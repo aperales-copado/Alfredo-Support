@@ -21,6 +21,11 @@
         <field>Pablo__c.Cumple_Rodrigo__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>PabloNoAqui__c.Cumple_Rodrigo_Mas_Tarde__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
