@@ -278,7 +278,7 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>File Mappings</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

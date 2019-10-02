@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>Nami</value>
     </caseValues>
+    <fields>
+        <label></label>
+        <name>A__c</name>
+    </fields>
     <gender>Feminine</gender>
 </CustomObjectTranslation>

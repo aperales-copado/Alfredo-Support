@@ -103,7 +103,7 @@
             <default>false</default>
         </values>
     </businessProcesses>
-    <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <compactLayouts>
         <fullName>test_alfredo</fullName>
         <fields>AccountId</fields>

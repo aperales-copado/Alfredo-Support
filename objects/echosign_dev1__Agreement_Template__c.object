@@ -727,7 +727,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Agreement Templates</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <validationRules>
         <fullName>echosign_dev1__Confirm_Password</fullName>

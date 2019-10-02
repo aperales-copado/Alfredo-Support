@@ -170,7 +170,7 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Form Field Child Mappings</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

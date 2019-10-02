@@ -85,7 +85,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>C</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

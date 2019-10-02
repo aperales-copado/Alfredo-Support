@@ -200,9 +200,9 @@
         <customTabListAdditionalFields>echosign_dev1__Retry_Count__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>echosign_dev1__Status__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>CREATED_DATE</customTabListAdditionalFields>
-        <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
         <excludedStandardButtons>New</excludedStandardButtons>
         <excludedStandardButtons>Accept</excludedStandardButtons>
+        <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
         <searchResultsAdditionalFields>CREATED_DATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LAST_UPDATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>echosign_dev1__Status__c</searchResultsAdditionalFields>

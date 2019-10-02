@@ -132,7 +132,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Data Mappings</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

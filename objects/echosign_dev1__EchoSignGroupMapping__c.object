@@ -96,7 +96,7 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Group Mappings</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

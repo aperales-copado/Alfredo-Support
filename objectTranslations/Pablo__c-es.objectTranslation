@@ -37,14 +37,6 @@
         <name>Birthday__c</name>
     </fields>
     <fields>
-        <label>alfre party</label>
-        <name>Cumple_Alfre__c</name>
-    </fields>
-    <fields>
-        <label>esther party</label>
-        <name>Cumple_Esther__c</name>
-    </fields>
-    <fields>
         <label>pablo party</label>
         <name>Cumple_Pablo__c</name>
     </fields>
@@ -63,6 +55,14 @@
     <fields>
         <label></label>
         <name>Mama_opinion__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Monday_afternoon__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Mozilla__c</name>
     </fields>
     <fields>
         <label></label>
@@ -119,6 +119,10 @@
     <fields>
         <label></label>
         <name>Test_back_promotion_3__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Test_back_promotion_4__c</name>
     </fields>
     <fields>
         <label></label>

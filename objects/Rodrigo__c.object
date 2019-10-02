@@ -60,7 +60,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Rodrigo</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

@@ -135,7 +135,7 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Triggers</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <startsWith>Vowel</startsWith>
     <visibility>Public</visibility>

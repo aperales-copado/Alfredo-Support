@@ -64,7 +64,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>B</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

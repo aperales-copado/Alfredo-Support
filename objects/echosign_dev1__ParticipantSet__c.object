@@ -395,7 +395,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>ParticipantSets</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

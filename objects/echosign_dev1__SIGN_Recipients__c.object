@@ -773,7 +773,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Recipients</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

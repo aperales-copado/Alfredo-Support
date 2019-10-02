@@ -78,11 +78,11 @@
     <nameField>
         <label>AccChild Name</label>
         <trackFeedHistory>true</trackFeedHistory>
-        <trackHistory>true</trackHistory>
+        <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
     <pluralLabel>AccChildren</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ControlledByParent</sharingModel>
     <startsWith>Vowel</startsWith>
     <visibility>Public</visibility>
