@@ -5863,10 +5863,6 @@
         <name>CreateLtngTempInPub</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>CreateMultiforce</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>CreateReportFolders</name>
     </userPermissions>
