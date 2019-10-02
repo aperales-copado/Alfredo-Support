@@ -9,7 +9,7 @@
         <value>Pablos</value>
     </caseValues>
     <fields>
-        <label><!-- Alfredo picklist --></label>
+        <label></label>
         <name>Alfredo_picklist__c</name>
         <picklistValues>
             <masterLabel>Head</masterLabel>
@@ -29,20 +29,12 @@
         </picklistValues>
     </fields>
     <fields>
-        <label><!-- Bill --></label>
+        <label></label>
         <name>Bill__c</name>
     </fields>
     <fields>
-        <label><!-- Birthday --></label>
+        <label></label>
         <name>Birthday__c</name>
-    </fields>
-    <fields>
-        <label>alfre party</label>
-        <name>Cumple_Alfre__c</name>
-    </fields>
-    <fields>
-        <label>esther party</label>
-        <name>Cumple_Esther__c</name>
     </fields>
     <fields>
         <label>pablo party</label>
@@ -53,35 +45,35 @@
         <name>Cumple_Rodrigo__c</name>
     </fields>
     <fields>
-        <label><!-- Encriptado --></label>
+        <label></label>
         <name>Encriptado__c</name>
     </fields>
     <fields>
-        <label><!-- Kindergarden --></label>
+        <label></label>
         <name>Kindergarden__c</name>
     </fields>
     <fields>
-        <label><!-- Mama opinion --></label>
+        <label></label>
         <name>Mama_opinion__c</name>
     </fields>
     <fields>
-        <label><!-- Monday afternoon --></label>
+        <label></label>
         <name>Monday_afternoon__c</name>
     </fields>
     <fields>
-        <label><!-- Mozilla --></label>
+        <label></label>
         <name>Mozilla__c</name>
     </fields>
     <fields>
-        <label><!-- Pablo --></label>
+        <label></label>
         <lookupFilter>
-            <errorMessage><!-- Esto no funciona --></errorMessage>
+            <errorMessage></errorMessage>
         </lookupFilter>
         <name>PB__c</name>
-        <relationshipLabel><!-- Pablos --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- PB multipicklist --></label>
+        <label></label>
         <name>PB_multipicklist__c</name>
         <picklistValues>
             <masterLabel>Apple</masterLabel>
@@ -109,68 +101,68 @@
         </picklistValues>
     </fields>
     <fields>
-        <label><!-- Papa Opinion --></label>
+        <label></label>
         <name>Papa_Opinion__c</name>
     </fields>
     <fields>
-        <label><!-- Telefono --></label>
+        <label></label>
         <name>Telefono__c</name>
     </fields>
     <fields>
-        <label><!-- Test Andrew Raymond 3 --></label>
+        <label></label>
         <name>Test_Andrew_Raymond_3__c</name>
     </fields>
     <fields>
-        <label><!-- Test back promotion 2 --></label>
+        <label></label>
         <name>Test_back_promotion_2__c</name>
     </fields>
     <fields>
-        <label><!-- Test back promotion 3 --></label>
+        <label></label>
         <name>Test_back_promotion_3__c</name>
     </fields>
     <fields>
-        <label><!-- Test back promotion 4 --></label>
+        <label></label>
         <name>Test_back_promotion_4__c</name>
     </fields>
     <fields>
-        <label><!-- Test back promotion --></label>
+        <label></label>
         <name>Test_back_promotion__c</name>
     </fields>
     <fields>
-        <label><!-- alfredotest2 --></label>
+        <label></label>
         <name>alfredotest2__c</name>
     </fields>
     <fields>
-        <label><!-- aniversario --></label>
+        <label></label>
         <name>aniversario__c</name>
     </fields>
     <fields>
-        <label><!-- main email --></label>
+        <label></label>
         <name>main_email__c</name>
     </fields>
     <fields>
-        <label><!-- recommit2 --></label>
+        <label></label>
         <name>recommit2__c</name>
     </fields>
     <fields>
-        <label><!-- recommit --></label>
+        <label></label>
         <name>recommit__c</name>
     </fields>
     <gender>Masculine</gender>
     <recordTypes>
-        <label><!-- Business Account --></label>
+        <label></label>
         <name>Business_Account</name>
     </recordTypes>
     <recordTypes>
-        <label><!-- Person Account --></label>
+        <label></label>
         <name>Person_Account</name>
     </recordTypes>
     <recordTypes>
-        <label><!-- Person Account 2 --></label>
+        <label></label>
         <name>Person_Account_2</name>
     </recordTypes>
     <recordTypes>
-        <label><!-- Person Account Default --></label>
+        <label></label>
         <name>Person_Account_Default</name>
     </recordTypes>
 </CustomObjectTranslation>

@@ -2608,16 +2608,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Pablo__c.Cumple_Alfre__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Pablo__c.Cumple_Esther__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Pablo__c.Cumple_Pablo__c</field>
         <readable>true</readable>
     </fieldPermissions>
