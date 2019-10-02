@@ -6139,10 +6139,6 @@
         <name>ManageContentTypes</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>ManageCssUsers</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>ManageCustomPermissions</name>
     </userPermissions>
