@@ -6503,10 +6503,6 @@
         <name>ViewContent</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>ViewCustomerSentiment</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>ViewDataAssessment</name>
     </userPermissions>
