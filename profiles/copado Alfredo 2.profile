@@ -2633,11 +2633,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Pablo__c.PB__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Pablo__c.Papa_Opinion__c</field>
         <readable>false</readable>
     </fieldPermissions>
