@@ -66,14 +66,6 @@
     </fields>
     <fields>
         <label></label>
-        <lookupFilter>
-            <errorMessage></errorMessage>
-        </lookupFilter>
-        <name>PB__c</name>
-        <relationshipLabel></relationshipLabel>
-    </fields>
-    <fields>
-        <label></label>
         <name>PB_multipicklist__c</name>
         <picklistValues>
             <masterLabel>Apple</masterLabel>
