@@ -37,14 +37,6 @@
         <name>Birthday__c</name>
     </fields>
     <fields>
-        <label>pablo party</label>
-        <name>Cumple_Pablo__c</name>
-    </fields>
-    <fields>
-        <label>rodrigo party</label>
-        <name>Cumple_Rodrigo__c</name>
-    </fields>
-    <fields>
         <label></label>
         <name>Encriptado__c</name>
     </fields>

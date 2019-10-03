@@ -5,12 +5,7 @@
         <detailHeading>true</detailHeading>
         <editHeading>true</editHeading>
         <label>Rodrigo</label>
-        <layoutColumns>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Cumple_Rodrigo__c</field>
-            </layoutItems>
-        </layoutColumns>
+        <layoutColumns />
         <layoutColumns />
         <style>TwoColumnsLeftToRight</style>
     </layoutSections>
@@ -19,12 +14,7 @@
         <detailHeading>true</detailHeading>
         <editHeading>true</editHeading>
         <label>Pablo</label>
-        <layoutColumns>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Cumple_Pablo__c</field>
-            </layoutItems>
-        </layoutColumns>
+        <layoutColumns />
         <layoutColumns />
         <style>TwoColumnsLeftToRight</style>
     </layoutSections>
