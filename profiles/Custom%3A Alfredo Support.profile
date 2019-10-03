@@ -1698,16 +1698,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Pablo__c.Cumple_Pablo__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Pablo__c.Cumple_Rodrigo__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Pablo__c.Encriptado__c</field>
         <readable>true</readable>
     </fieldPermissions>
