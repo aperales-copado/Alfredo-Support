@@ -523,6 +523,18 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Testeo_picklist__c</fullName>
+        <externalId>false</externalId>
+        <label>Testeo picklist</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Alfredo</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Title</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -634,6 +646,25 @@
             </values>
             <values>
                 <fullName>Prof%2E</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Testeo_picklist__c</picklist>
+            <values>
+                <fullName>Altura</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Edad</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Peso</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ropa</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
