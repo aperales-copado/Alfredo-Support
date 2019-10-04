@@ -409,6 +409,45 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Papa__c</fullName>
+        <externalId>false</externalId>
+        <label>Papa</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Edad</fullName>
+                    <default>false</default>
+                    <label>Edad</label>
+                </value>
+                <value>
+                    <fullName>Peso</fullName>
+                    <default>false</default>
+                    <label>Peso</label>
+                </value>
+                <value>
+                    <fullName>Altura</fullName>
+                    <default>false</default>
+                    <label>Altura</label>
+                </value>
+                <value>
+                    <fullName>Calzado</fullName>
+                    <default>false</default>
+                    <label>Calzado</label>
+                </value>
+                <value>
+                    <fullName>Ropa</fullName>
+                    <default>false</default>
+                    <label>Ropa</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Phone</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -595,6 +634,29 @@
             </values>
             <values>
                 <fullName>Prof%2E</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Papa__c</picklist>
+            <values>
+                <fullName>Altura</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Calzado</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Edad</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Peso</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ropa</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
@@ -819,6 +881,29 @@
             </values>
             <values>
                 <fullName>Prof%2E</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Papa__c</picklist>
+            <values>
+                <fullName>Altura</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Calzado</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Edad</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Peso</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ropa</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
