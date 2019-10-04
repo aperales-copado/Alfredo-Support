@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Lead.CurrentGenerators__c</members>
-        <members>Lead.NumberofLocations__c</members>
-        <members>Lead.ProductInterest__c</members>
+        <members>Lead.Papa__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Lead.Alfredo</members>
         <members>Lead.Esther</members>
-        <members>Lead.Pablo</members>
         <name>RecordType</name>
     </types>
     <types>
