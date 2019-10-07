@@ -55,20 +55,4 @@
             <allPartnerUsers></allPartnerUsers>
         </sharedFrom>
     </sharingOwnerRules>
-    <sharingOwnerRules>
-        <fullName>Pablo</fullName>
-        <accessLevel>Read</accessLevel>
-        <accountSettings>
-            <caseAccessLevel>None</caseAccessLevel>
-            <contactAccessLevel>Read</contactAccessLevel>
-            <opportunityAccessLevel>None</opportunityAccessLevel>
-        </accountSettings>
-        <label>Pablo</label>
-        <sharedTo>
-            <roleAndSubordinates>EasternSalesTeam</roleAndSubordinates>
-        </sharedTo>
-        <sharedFrom>
-            <roleAndSubordinates>CEO</roleAndSubordinates>
-        </sharedFrom>
-    </sharingOwnerRules>
 </SharingRules>
