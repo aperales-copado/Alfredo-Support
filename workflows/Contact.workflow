@@ -8,13 +8,29 @@
         <operation>Null</operation>
         <protected>false</protected>
     </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Pablo</fullName>
+        <field>Birthdate</field>
+        <name>Pablo</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Null</operation>
+        <protected>false</protected>
+    </fieldUpdates>
     <rules>
         <fullName>Reset Dun Fields</fullName>
         <actions>
             <name>Alfredo</name>
             <type>FieldUpdate</type>
         </actions>
-        <active>false</active>
+        <actions>
+            <name>Esther</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Pablo</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>true</active>
         <criteriaItems>
             <field>Contact.Description</field>
             <operation>startsWith</operation>
