@@ -25,6 +25,14 @@
         <operation>Null</operation>
         <protected>false</protected>
     </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Rodrigo</fullName>
+        <field>Birthdate</field>
+        <name>Rodrigo</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Null</operation>
+        <protected>false</protected>
+    </fieldUpdates>
     <rules>
         <fullName>Reset Dun Fields</fullName>
         <actions>
