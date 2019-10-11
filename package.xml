@@ -4,13 +4,5 @@
         <members>Contact</members>
         <name>Workflow</name>
     </types>
-    <types>
-        <members>Contact.Esther</members>
-        <name>WorkflowFieldUpdate</name>
-    </types>
-    <types>
-        <members>Contact.Reset Dun Fields</members>
-        <name>WorkflowRule</name>
-    </types>
     <version>46.0</version>
 </Package>
