@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Contact</members>
-        <name>Workflow</name>
+        <members>Contact.Pablo</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>Contact.Reset Dun Fields</members>
+        <name>WorkflowRule</name>
     </types>
     <version>46.0</version>
 </Package>
