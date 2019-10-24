@@ -598,6 +598,21 @@
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
         <picklistValues>
+            <picklist>Alfredo__c</picklist>
+            <values>
+                <fullName>Alfredo1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Alfredo2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Alfredo3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>Rodrigo__c</picklist>
             <values>
                 <fullName>Altura</fullName>
@@ -639,21 +654,6 @@
             </values>
             <values>
                 <fullName>Esther3</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Alfredo__c</picklist>
-            <values>
-                <fullName>Alfredo1</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Alfredo2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Alfredo3</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
