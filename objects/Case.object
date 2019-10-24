@@ -320,6 +320,32 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Pablo__c</fullName>
+        <externalId>false</externalId>
+        <label>Pablo</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Pablo1</fullName>
+                    <default>false</default>
+                    <label>Pablo1</label>
+                </value>
+                <value>
+                    <fullName>Pablo2</fullName>
+                    <default>false</default>
+                    <label>Pablo2</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>ParentId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -557,6 +583,17 @@
         <businessProcess>Alfredo1</businessProcess>
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
+        <picklistValues>
+            <picklist>Pablo__c</picklist>
+            <values>
+                <fullName>Pablo1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pablo2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>Esther__c</picklist>
             <values>
