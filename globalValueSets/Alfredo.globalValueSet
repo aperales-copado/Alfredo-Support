@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Altura</fullName>
+        <default>true</default>
+        <label>Altura</label>
+    </customValue>
+    <customValue>
+        <fullName>Edad</fullName>
+        <default>false</default>
+        <label>Edad</label>
+    </customValue>
+    <customValue>
+        <fullName>Peso</fullName>
+        <default>false</default>
+        <label>Peso</label>
+    </customValue>
+    <customValue>
+        <fullName>Ropa</fullName>
+        <default>false</default>
+        <label>Ropa</label>
+    </customValue>
+    <masterLabel>Alfredo</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>

@@ -298,6 +298,20 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Rodrigo__c</fullName>
+        <externalId>false</externalId>
+        <label>Rodrigo</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Alfredo</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>SLAViolation__c</fullName>
         <externalId>false</externalId>
         <label>SLA Violation</label>
@@ -453,8 +467,27 @@
         <fullName>AlfredoPG</fullName>
         <active>true</active>
         <businessProcess>Alfredo1</businessProcess>
-        <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+        <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
+        <picklistValues>
+            <picklist>Rodrigo__c</picklist>
+            <values>
+                <fullName>Altura</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Edad</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Peso</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ropa</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>Esther__c</picklist>
             <values>
