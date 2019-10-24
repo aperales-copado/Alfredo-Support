@@ -421,7 +421,6 @@
     <recordTypes>
         <fullName>AlfredoPG</fullName>
         <active>true</active>
-        <businessProcess>Alfredo1</businessProcess>
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
         <picklistValues>
