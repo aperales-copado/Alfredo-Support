@@ -135,6 +135,37 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Esther__c</fullName>
+        <externalId>false</externalId>
+        <label>Esther</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Esther1</fullName>
+                    <default>false</default>
+                    <label>Esther1</label>
+                </value>
+                <value>
+                    <fullName>Esther2</fullName>
+                    <default>false</default>
+                    <label>Esther2</label>
+                </value>
+                <value>
+                    <fullName>Esther3</fullName>
+                    <default>false</default>
+                    <label>Esther3</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>IsClosedOnCreate</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -422,8 +453,23 @@
         <fullName>AlfredoPG</fullName>
         <active>true</active>
         <businessProcess>Alfredo1</businessProcess>
-        <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+        <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
+        <picklistValues>
+            <picklist>Esther__c</picklist>
+            <values>
+                <fullName>Esther1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Esther2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Esther3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>Origin</picklist>
             <values>
