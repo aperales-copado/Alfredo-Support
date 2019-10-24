@@ -247,6 +247,37 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Alfredo__c</fullName>
+        <externalId>false</externalId>
+        <label>Alfredo</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Alfredo1</fullName>
+                    <default>false</default>
+                    <label>Alfredo1</label>
+                </value>
+                <value>
+                    <fullName>Alfredo2</fullName>
+                    <default>false</default>
+                    <label>Alfredo2</label>
+                </value>
+                <value>
+                    <fullName>Alfredo3</fullName>
+                    <default>false</default>
+                    <label>Alfredo3</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>AssetId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>
@@ -663,6 +694,21 @@
         <businessProcess>Alfredo1</businessProcess>
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
+        <picklistValues>
+            <picklist>Alfredo__c</picklist>
+            <values>
+                <fullName>Alfredo1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Alfredo2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Alfredo3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>Pablo__c</picklist>
             <values>
