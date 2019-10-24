@@ -453,7 +453,7 @@
         <fullName>AlfredoPG</fullName>
         <active>true</active>
         <businessProcess>Alfredo1</businessProcess>
-        <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
+        <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
         <label>AlfredoPG</label>
         <picklistValues>
             <picklist>Esther__c</picklist>
