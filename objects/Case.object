@@ -541,6 +541,53 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Support__c</fullName>
+        <externalId>false</externalId>
+        <label>Support</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MultiselectPicklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Diego</fullName>
+                    <default>false</default>
+                    <label>Diego</label>
+                </value>
+                <value>
+                    <fullName>Jorge</fullName>
+                    <default>false</default>
+                    <label>Jorge</label>
+                </value>
+                <value>
+                    <fullName>Arturo</fullName>
+                    <default>false</default>
+                    <label>Arturo</label>
+                </value>
+                <value>
+                    <fullName>Alfredo</fullName>
+                    <default>false</default>
+                    <label>Alfredo</label>
+                </value>
+                <value>
+                    <fullName>Ariel</fullName>
+                    <default>false</default>
+                    <label>Ariel</label>
+                </value>
+                <value>
+                    <fullName>Corey</fullName>
+                    <default>false</default>
+                    <label>Corey</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+        <visibleLines>4</visibleLines>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>
@@ -623,6 +670,33 @@
         <businessProcess>Alfredo1</businessProcess>
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
+        <picklistValues>
+            <picklist>Support__c</picklist>
+            <values>
+                <fullName>Alfredo</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ariel</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Arturo</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Corey</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Diego</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Jorge</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>Umit__c</picklist>
             <values>
