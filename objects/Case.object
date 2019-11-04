@@ -323,6 +323,32 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>Selenium__c</fullName>
+        <externalId>false</externalId>
+        <label>Selenium</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>No works 1</fullName>
+                    <default>false</default>
+                    <label>No works 1</label>
+                </value>
+                <value>
+                    <fullName>No works 2</fullName>
+                    <default>false</default>
+                    <label>No works 2</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>SourceId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -503,29 +529,13 @@
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
         <picklistValues>
-            <picklist>Support__c</picklist>
+            <picklist>Selenium__c</picklist>
             <values>
-                <fullName>Alfredo</fullName>
+                <fullName>No works 1</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Ariel</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Arturo</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Corey</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Diego</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Jorge</fullName>
+                <fullName>No works 2</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
