@@ -8,13 +8,46 @@
         <operation>Null</operation>
         <protected>false</protected>
     </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Esther</fullName>
+        <field>Level__c</field>
+        <literalValue>Primary</literalValue>
+        <name>Esther</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Pablo</fullName>
+        <field>Birthdate</field>
+        <name>Pablo</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Null</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Rodrigo</fullName>
+        <field>Birthdate</field>
+        <name>Rodrigo</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Null</operation>
+        <protected>false</protected>
+    </fieldUpdates>
     <rules>
         <fullName>Reset Dun Fields</fullName>
         <actions>
             <name>Alfredo</name>
             <type>FieldUpdate</type>
         </actions>
-        <active>false</active>
+        <actions>
+            <name>Esther</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Rodrigo</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>true</active>
         <criteriaItems>
             <field>Contact.Description</field>
             <operation>startsWith</operation>

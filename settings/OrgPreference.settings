@@ -58,7 +58,7 @@
     </preferences>
     <preferences>
         <settingName>Translation</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>UseLanguageFallback</settingName>
@@ -86,11 +86,11 @@
     </preferences>
     <preferences>
         <settingName>ChatterEnabled</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>SocialProfilesEnable</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>PathAssistantsEnabled</settingName>
@@ -126,7 +126,7 @@
     </preferences>
     <preferences>
         <settingName>AnalyticsSharingEnable</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>S1DesktopEnabled</settingName>
@@ -138,6 +138,10 @@
     </preferences>
     <preferences>
         <settingName>RemoveThemeBrandBanner</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ScratchOrgManagementPref</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
