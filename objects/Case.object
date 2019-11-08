@@ -103,7 +103,7 @@
             <default>false</default>
         </values>
     </businessProcesses>
-    <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <compactLayouts>
         <fullName>test_alfredo</fullName>
         <fields>AccountId</fields>
@@ -772,59 +772,6 @@
             </values>
             <values>
                 <fullName>Ropa</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Support_2__c</picklist>
-            <values>
-                <fullName>Support 1</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Support 2</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Support 3</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Support__c</picklist>
-            <values>
-                <fullName>Alfredo</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Ariel</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Arturo</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Corey</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Diego</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Jorge</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Suppport_3__c</picklist>
-            <values>
-                <fullName>Chicago</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Madrid</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
