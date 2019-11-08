@@ -103,7 +103,7 @@
             <default>false</default>
         </values>
     </businessProcesses>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
     <compactLayouts>
         <fullName>test_alfredo</fullName>
         <fields>AccountId</fields>
@@ -128,6 +128,7 @@
         <label>testing</label>
     </compactLayouts>
     <enableFeeds>true</enableFeeds>
+    <externalSharingModel>ReadWriteTransfer</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -704,6 +705,59 @@
             </values>
             <values>
                 <fullName>No works 2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Support_2__c</picklist>
+            <values>
+                <fullName>Support 1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Support 2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Support 3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Support__c</picklist>
+            <values>
+                <fullName>Alfredo</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ariel</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Arturo</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Corey</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Diego</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Jorge</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Suppport_3__c</picklist>
+            <values>
+                <fullName>Chicago</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Madrid</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
