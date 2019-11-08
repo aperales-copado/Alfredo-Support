@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case.Selenium__c</members>
+        <members>Case.Support_2__c</members>
+        <members>Case.Support__c</members>
+        <members>Case.Suppport_3__c</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>Case</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Case.AlfredoPG</members>
-        <name>RecordType</name>
     </types>
     <version>46.0</version>
 </Package>
