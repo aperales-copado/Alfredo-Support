@@ -298,6 +298,20 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Rodrigo__c</fullName>
+        <externalId>false</externalId>
+        <label>Rodrigo</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Alfredo</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>SLAViolation__c</fullName>
         <externalId>false</externalId>
         <label>SLA Violation</label>
@@ -503,29 +517,21 @@
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
         <picklistValues>
-            <picklist>Support__c</picklist>
+            <picklist>Rodrigo__c</picklist>
             <values>
-                <fullName>Alfredo</fullName>
+                <fullName>Altura</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Edad</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Ariel</fullName>
+                <fullName>Peso</fullName>
                 <default>false</default>
             </values>
             <values>
-                <fullName>Arturo</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Corey</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Diego</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Jorge</fullName>
+                <fullName>Ropa</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
