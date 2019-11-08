@@ -56,8 +56,9 @@
         <actionName>View</actionName>
         <type>Default</type>
     </actionOverrides>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
+    <externalSharingModel>ReadWriteTransfer</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -298,6 +299,20 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Rodrigo__c</fullName>
+        <externalId>false</externalId>
+        <label>Rodrigo</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Alfredo</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>SLAViolation__c</fullName>
         <externalId>false</externalId>
         <label>SLA Violation</label>
@@ -496,12 +511,85 @@
         <label>US - Silver/Bronze</label>
         <queue>USSilverBronze</queue>
     </listViews>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
+    <recordTypeTrackHistory>true</recordTypeTrackHistory>
     <recordTypes>
         <fullName>AlfredoPG</fullName>
         <active>true</active>
         <businessProcess>Alfredo1</businessProcess>
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
+        <picklistValues>
+            <picklist>Alfredo__c</picklist>
+            <values>
+                <fullName>Alfredo1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Alfredo2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Alfredo3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Pablo__c</picklist>
+            <values>
+                <fullName>Pablo1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Pablo2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Rodrigo__c</picklist>
+            <values>
+                <fullName>Altura</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Edad</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Peso</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ropa</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Selenium__c</picklist>
+            <values>
+                <fullName>No works 1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>No works 2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Support_2__c</picklist>
+            <values>
+                <fullName>Support 1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Support 2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Support 3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>Support__c</picklist>
             <values>
@@ -526,6 +614,89 @@
             </values>
             <values>
                 <fullName>Jorge</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Suppport_3__c</picklist>
+            <values>
+                <fullName>Chicago</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Madrid</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Umit__c</picklist>
+            <values>
+                <fullName>Umit1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Umit2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>PotentialLiability__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Product__c</picklist>
+            <values>
+                <fullName>GC1020</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>GC1040</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>GC1060</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>GC3020</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>GC3040</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>GC3060</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>GC5020</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>GC5040</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>GC5060</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>SLAViolation__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
