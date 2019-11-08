@@ -221,7 +221,7 @@
             <default>false</default>
         </values>
     </businessProcesses>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
     <compactLayouts>
         <fullName>test_alfredo</fullName>
         <fields>AccountId</fields>
@@ -239,6 +239,7 @@
         <label>test alfredo2</label>
     </compactLayouts>
     <enableFeeds>true</enableFeeds>
+    <externalSharingModel>ReadWriteTransfer</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -570,6 +571,20 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Rodrigo__c</fullName>
+        <externalId>false</externalId>
+        <label>Rodrigo</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Alfredo</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>SLAViolation__c</fullName>
         <externalId>false</externalId>
         <label>SLA Violation</label>
@@ -767,6 +782,89 @@
         <businessProcess>Alfredo1</businessProcess>
         <compactLayoutAssignment>test_alfredo2</compactLayoutAssignment>
         <label>AlfredoPG</label>
+        <picklistValues>
+            <picklist>Rodrigo__c</picklist>
+            <values>
+                <fullName>Altura</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Edad</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Peso</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ropa</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Support_2__c</picklist>
+            <values>
+                <fullName>Support 1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Support 2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Support 3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Support__c</picklist>
+            <values>
+                <fullName>Alfredo</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Ariel</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Arturo</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Corey</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Diego</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Jorge</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Suppport_3__c</picklist>
+            <values>
+                <fullName>Chicago</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Madrid</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Umit__c</picklist>
+            <values>
+                <fullName>Umit1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Umit2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
         <picklistValues>
             <picklist>Selenium__c</picklist>
             <values>
