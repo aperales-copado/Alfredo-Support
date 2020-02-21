@@ -7,5 +7,7 @@ private class AppleWatchTest {
     opp.StageName = 'Prospecting';
     opp.CloseDate = Date.today();
     insert opp;
+      
+      System.assert(opp.id!=null);
   } 
 }
